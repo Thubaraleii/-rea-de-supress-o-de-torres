@@ -46,4 +46,4 @@ df.loc[len(df)] = ["Total", "-", "-", "-", "-", area_total_supressao]
 # Exportar para Excel
 df.to_excel("area_supressao.xlsx", index=False)
 
-print("Cálculo concluído. Arquivo 'area_supressao.xlsx' gerado com sucesso.")
+print("area_supressao.xlsx")
