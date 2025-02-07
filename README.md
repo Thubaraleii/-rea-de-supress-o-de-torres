@@ -1,4 +1,3 @@
-readme_content = """
 # Cálculo de Área de Supressão
 
 Este projeto em Python calcula a área de supressão de torres e faixa de serviço.
